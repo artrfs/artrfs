@@ -1,7 +1,7 @@
 # Hello
 ## Welcome to my profile!
 
-👋 - Hi! You can call me `artrfs`
+👋 - Hi! You can call me `Artur`
 
 📕 - I'm currently learning **`Python`** _and_ **`JavaScript`**
 
