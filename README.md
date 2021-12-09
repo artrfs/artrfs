@@ -5,6 +5,8 @@
 
 📕 - I'm currently learning **`Python`** _and_ **`JavaScript`**
 
+📌 - I have some experience HTML & CSS
+
 📚 - I also want to learn to code in:
 
 **-** **_C/C++_**;
