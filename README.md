@@ -7,7 +7,7 @@
 
 📌 - I have some experience HTML & CSS
 
-📚 - I also want to learn to code in:
+📚 - I also want learn to code in:
 
 **-** **_C/C++_**;
 
