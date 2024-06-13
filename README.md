@@ -1,31 +1,7 @@
 # Hello
 ## Welcome to my profile!
 
-👋 - Hi! You can call me `Artur`
-
-📕 - I'm currently learning **`Python`** _and_ **`JavaScript`**
-
-📌 - I have some experience HTML & CSS
-
-📚 - I also want learn to code in:
-
-**-** **_PHP_**;
-
-**-** **_C/C++_**;
-
-**-** **_Go_**;
-
-**-** **_Java_**;
-
-**-** **_C#_**;
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-> **Stay away from negative people. They have a problem to every solution.**
-
-**_- Albert Einstein_**
+Idling...
 
 <div align="center">
   <a href="https://github.com/artrfs">
